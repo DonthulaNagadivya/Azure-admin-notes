@@ -42,8 +42,8 @@ Fault Tolerance is the ability of a system to continue operating without interru
 
 ## Disaster Recovery
 
-Disaster Recovery involves the planning and processes for restoring and recovering data and systems after a natural or human-induced disaster.
+Disaster Recovery involves the planning and processes for restoring and recovering data , applications and systems in the event of natural disaster or system failure.It ensures bussiness continuity by minimizing downntime and data loss.
 
 ## Load Balancing
 
-Load Balancing is the distribution of network traffic or computing workload across multiple servers to ensure no single server is overwhelmed.
+Load Balancing is the distribution of network incoming traffic or computing workloads evenly across multiple servers to ensure no single server is overwhelmed. it improves the application availability, enhance the system perfoemance and provides fault tolerance.
